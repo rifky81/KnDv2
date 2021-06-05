@@ -38,7 +38,7 @@ Hi {}, my name is {}! I am a group manager managed by [my master](t.me/aflky02).
 You can find the list of available commands with /help.
 """,
 	"help_text": """
-Hey! My name is *Dirty*. I am a group management bot, here to help you get around and keep the order in your groups!
+Hey! My name is *rifky*. I am a group management bot, here to help you get around and keep the order in your groups!
 I have lots of handy features, such as flood control, a warning system, a note keeping system, and even predetermined replies on certain keywords.
 
 *Main commands available:*
